@@ -1,7 +1,10 @@
 # Gotek
-Information about using Gotek floppy drive emulator hardware.
+
+Information about using the Gotek floppy drive emulator hardware.
 
 ---
+
+# Floppy Disk Drive Emulators for Gotek
 
 ## OLED
 
